@@ -1,0 +1,2 @@
+This is my docker project which i have done during my docker training in IIEC.
+In this we can launch two diff. containers and i have integrated ansible through docker. In 1st container I make a ansible playbook in which i install apache package and start its services and run a webserver. And run that playbook from control node to managed node .
